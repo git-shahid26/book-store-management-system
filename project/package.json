@@ -1,5 +1,6 @@
 {
-  "name": "https://github.com/git-shahid26/book-store-management-system/project",
+  "homepage":"https://github.com/git-shahid26/book-store-management-system/project"
+  "name": "enterprise-bookstore",
   "private": true,
   "version": "0.0.0",
   "type": "module",
